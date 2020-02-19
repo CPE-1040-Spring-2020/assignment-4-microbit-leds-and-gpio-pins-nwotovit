@@ -92,9 +92,9 @@ This assignment introduces the GPIO pins of the micro:bit. _Refer to the [criter
 ---
 
 ## Measurements
+1. The total rail voltage was roughly 5.0 volts. The voltage drop across the LED was 2.1v. The current was measured at 15.2mA. By Ohm's Law the resistance of the LED is 2.1 / 15.2 = 138 mOhm
 
-_TODO: Record and describe your circuit measurements and calculations here._
 
 ## Demo videos
-
-_TODO: Add your video descriptions and URLs here. The videos should clearly show the completion of the corresponding task._
+1. Workstation demo circuit [Here]
+2. Breakout Board demo [Here](https://imgur.com/gallery/D6uLhBS).
