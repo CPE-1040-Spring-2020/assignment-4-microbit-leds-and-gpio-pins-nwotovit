@@ -96,5 +96,7 @@ This assignment introduces the GPIO pins of the micro:bit. _Refer to the [criter
 
 
 ## Demo videos
-1. Workstation demo circuit [Here]
+1. Workstation demo circuit [Here](https://imgur.com/a/2StyUmD).
 2. Breakout Board demo [Here](https://imgur.com/gallery/D6uLhBS).
+3a. Reconfigured LED circuit [Here](https://imgur.com/a/0EM9TG9).
+3b.
