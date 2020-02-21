@@ -102,4 +102,4 @@ This assignment introduces the GPIO pins of the micro:bit. _Refer to the [criter
 
 3a. Reconfigured LED circuit [Here](https://imgur.com/a/0EM9TG9).
 
-3b.
+3b. Incorporated Screensaver with RGB LED [Here](https://imgur.com/nAkb4TF).
